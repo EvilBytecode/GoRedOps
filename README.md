@@ -91,7 +91,7 @@ To get started with any of the tools in this repository, navigate to the respect
 Clone the repository, and Change Dir to your specified one:
 
 ```bash
-git clone https://github.com/EvilBytecode/GoRedOps/GoRedOps.git
+git clone https://github.com/EvilBytecode/GoRedOps.git
 cd GoRedOps
 cd desired_folder
 ```
