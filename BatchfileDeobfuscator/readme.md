@@ -1,4 +1,4 @@
-# Codepulze-Batchfile-Deobfuscator (MYSTIFIC)
+# Batchfile-Deobfuscator
 - I made this beacuse i seen many payloads being made in batchfile, which are malicious and i wanted to do some malware analysis, and i wanted an automatized tool, so i made this for reverse engineers to simplify their life
 
 
