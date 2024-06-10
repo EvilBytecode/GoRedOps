@@ -1,0 +1,18 @@
+## Features (AntiDebugBetter.go)
+- + Check For RemoteDebugger (ADDED)
+- + Hide Threads From Debugger (ADDED)
+- + Hardware Breakpoints (ADDED)
+- + OutputDebugString Exploit (ADDED)
+- + NtCloseAntiDebug_InvalidHandle & NtCloseAntiDebug_ProtectedHandle (ADDED)
+- + Check if GPU has VBOX / VM start (ADDED)
+- + HardWareBreakPoints (ADDED)
+- Blocks over 50+ popular debugging software.
+- Blocks IsDebuggerPresent.
+- Prevents debuggers and traffic debuggers.
+- Detects and kills blacklisted processes.
+- Detects windows associated with debugging tools.
+- Checks system uptime and running processes.
+- Checks disk size, RAM, and number of processors.
+- Verifies GPU information.
+- Performs IP check against a blacklist.
+- Lowers VirusTotal detection to 4/72.
