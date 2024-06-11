@@ -11,10 +11,6 @@ GoRedOps is a collection of Golang projects designed specifically for red teamer
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
-## About
-
-GoRedOps aims to equip security professionals with the necessary tools to perform advanced security assessments. Each project is designed to address a specific aspect of red teaming, such as anti-debugging, process injection, cryptographic operations, and more.
-
 ## Project Structure
 
 GoRedOps contains the following codes:
