@@ -107,4 +107,4 @@ cd desired_folder
 - NoLicense (UNLicense)
 
 # Credits:
-- https://github.com/Enelg52/OffensiveGo (50% projects Was taken off him, beacuse i didnt feel like writing an repeated process, if you want to take me down your repos contact me thanks)
+- https://github.com/Enelg52/OffensiveGo (50%)
