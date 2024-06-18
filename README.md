@@ -104,7 +104,7 @@ cd desired_folder
 - Submit a pull request to the main repository.
 
 # License : 
-- NoLicense (UNLicense)
+- NoLicense (UnLicense)
 
 # Credits:
 - https://github.com/Enelg52/OffensiveGo (50%)
