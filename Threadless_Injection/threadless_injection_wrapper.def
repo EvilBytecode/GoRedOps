@@ -1,0 +1,5 @@
+EXPORTS
+find_process
+write_shellcode
+install_trampoline
+find_memory_role
