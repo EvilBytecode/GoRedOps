@@ -112,6 +112,8 @@ GoRedOps contains the following codes:
   - Runs PE in Memory, PE = .exe.
 - **Lifetime ETW - Amsi Bypass**
   - Patches Amsi and ETW forever in newly created powershell consoles.
+- **Keylogger**
+  - Logs keystrokes into a temp file.
 ## Getting Started
 
 To get started with any of the tools in this repository, navigate to the respective project directory and follow the instructions in the `README.md` file provided.
