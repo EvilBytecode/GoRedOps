@@ -1,6 +1,6 @@
 # GoRedOps
 <a href="https://t.me/pulzetools"><img src="https://img.shields.io/badge/Join%20my%20Telegram%20group-2CA5E0?style=for-the-badge&logo=telegram&labelColor=db44ad&color=5e2775"></a>
-
+https://discord.gg/qeYaYK4JKq
 ![GoRedOps Logo](GoRedOps.png)
 
 GoRedOps is a collection of Golang projects designed specifically for red teamers and offensive security operations. This repository provides various tools and techniques essential for penetration testing, exploitation, and security research.
