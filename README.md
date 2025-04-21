@@ -147,3 +147,7 @@ cd desired_folder
 
 # Credits:
 - https://github.com/Enelg52/OffensiveGo (30%)
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
