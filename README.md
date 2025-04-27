@@ -1,4 +1,6 @@
 # GoRedOps
+## Telegram:
+- https://t.me/ebytelabs
 ![GoRedOps Logo](GoRedOps.png)
 
 GoRedOps is a collection of Golang projects designed specifically for red teamers and offensive security operations. This repository provides various tools and techniques essential for penetration testing, exploitation, and security research.
